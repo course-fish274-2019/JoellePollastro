@@ -29,12 +29,6 @@ library(ggplot2)
 ggplot(fish_data_cat_clean, aes(x = length, y = scalelength, color = lakeid)) +
   geom_point(size =3)
  
-# prof suggested this on github to commit these changes, and i pulled it from git
+
 ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
-  geom_histogram(bins=80)
-
-
-
-
-
-
+  geom_histogram()
