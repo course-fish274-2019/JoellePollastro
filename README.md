@@ -7,8 +7,13 @@ dplyr
 ggplot2
 
 Files in order of use week 7:
-JoellePollastro/scripts/Fish-analysis.R -- exercises for week 7 assignment 
 
-JoellePollastro/data/Gaeta_etal_CLC_data_1.csv -- data from online with fish data (lakeID, scalelength, fishID, etc. )
+scripts/Fish-analysis.R -- exercises for week 7 assignment 
 
-JoellePollastro/figures/scale_hist_by_length.jpeg -- image answers Q5 on assignment of hostogram with new bin size (bins=80)
+data/Gaeta_etal_CLC_data_1.csv -- data from online with fish data (lakeID, scalelength, fishID, etc. )
+
+figures/scale_hist_by_length.jpeg -- image answers Q5 on assignment of hostogram with new bin size (bins=80)
+
+JoellePollastro.Rproj -- metadata about this project
+
+.gitignore -- files that aren't getting pushed, not important
